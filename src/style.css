@@ -1,0 +1,29 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; /* Elimina espacios entre celdas */
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #007BFF;
+    color: white;
+}
+
+tr:hover {
+    background-color: #f1f1f1; /* Cambia el fondo al pasar el ratón */
+}
+
+h1, h2 {
+    color: #333;
+}
